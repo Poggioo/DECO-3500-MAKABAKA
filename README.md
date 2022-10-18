@@ -20,6 +20,8 @@ The second is for chat question and answer. If a student asks a question, it wil
 When the teacher confirms that the problem has been answered correctly, the problem will be marked as solved.
 The third is real-time video playback, in which students can watch the recording of the current lecture directly, see before content and jump back to live mode, just like youtube live.
 
+In the Iteration1 folder of GitHub Code, there is the function code in iteration1, which is not needed normally. It just upload as part of the project process
+
 
 ## Download
 
