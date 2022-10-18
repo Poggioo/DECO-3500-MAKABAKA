@@ -6,9 +6,9 @@ The goal of the project is to build an improved educational platform based on Zo
 
 - [Introduction](#introduction)
 - [Download Link](#download)
-- [Documents](#document)
+- [Documents](#documents)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 
 ## Introduction
@@ -90,7 +90,7 @@ In this function, Youtube Live’s and Zoom’s layout are used to simulate the 
 progress bar to the far right or just click "Live" button.
 
 
-### Contributors
+## Contributors
 
 This project exists thanks to the following members who contribute:
 Yueqing Xiao; Jiawei Wang; Shaoqing Wang; Xiangyu Ren.
