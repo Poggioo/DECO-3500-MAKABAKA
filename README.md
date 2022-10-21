@@ -29,7 +29,7 @@ Student interface prototype download address:
 https://github.com/Poggioo/DECO-3500-MAKABAKA/blob/main/DECO3500%20-%20Student%20Perspective%20Updated%20Zoom.zip
 
 Teacher interface prototype download address: 
-https://github.com/Poggioo/DECO-3500-MAKABAKA/blob/main/DECO3500%20-%20Teacher%20Perspective%20Updated%20Zoom(1).zip
+https://github.com/Poggioo/DECO-3500-MAKABAKA/blob/main/DECO3500%20-%20Teacher%20Perspective%20Updated%20Zoom.zip
 
 
 ## Documents
